@@ -1,12 +1,9 @@
 # amixam
-**About me -------**
-I am a guy that enjoys coding!
+I currently can code in:
 
-**Languages i know -------
-  Python
-  C++
-  C#
-  Javascript
-  PHP
-  css
-**
+Python
+C#
+CSS
+C++
+PHP
+JavaScript
