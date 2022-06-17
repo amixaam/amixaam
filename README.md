@@ -1,2 +1,12 @@
 # amixam
-About me and my current &amp; future projects!
+**About me -------**
+I am a guy that enjoys coding!
+
+**Languages i know -------
+  Python
+  C++
+  C#
+  Javascript
+  PHP
+  css
+**
