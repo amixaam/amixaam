@@ -1,8 +1,8 @@
 # amixam
-I currently can code in:
-	Python
-	C#
-	CSS
-	C++
-	PHP
-	JavaScript
+## I currently can code in:
+* Python
+* C#
+* C++
+* PHP
+* Javascript
+* CSS
